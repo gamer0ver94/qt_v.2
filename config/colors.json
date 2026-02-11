@@ -1,0 +1,30 @@
+{
+    "version": "1.0",
+    "description": "Color configuration for application modules",
+    "modules": {
+        "Dashboard": {
+            "bg_color": "#ffffff",
+            "fg_color": "#2c3e50"
+        },
+        "System Status": {
+            "bg_color": "#1a1a2e",
+            "fg_color": "#00d4ff"
+        },
+        "Git Manager": {
+            "bg_color": "#0d1117",
+            "fg_color": "#58a6ff"
+        },
+        "Log": {
+            "bg_color": "#000000",
+            "fg_color": "#00ff00"
+        }
+    },
+    "window": {
+        "bg_color": "#00c8f9",
+        "fg_color": "#ffffff"
+    },
+    "settings": {
+        "auto_apply": true,
+        "preview_changes": true
+    }
+}
